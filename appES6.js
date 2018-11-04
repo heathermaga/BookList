@@ -54,7 +54,7 @@ class UI {
 
 }
 
-// Local storage class
+// Local storage class 
 class Store {
 
   static getBooks() {
