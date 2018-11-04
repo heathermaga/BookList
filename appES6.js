@@ -54,7 +54,7 @@ class UI {
 
 }
 
-// Locak storage class
+// Local storage class
 class Store {
 
   static getBooks() {
